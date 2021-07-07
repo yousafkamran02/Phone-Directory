@@ -1,5 +1,0 @@
-
-Name_:y|CNIC:1_|_Phone Number_:_1
-Name_:y|CNIC:2_|_Phone Number_:_1
-Name_:yousaf|CNIC:13_|_Phone Number_:_12
-_|_Phone Number_:_10
